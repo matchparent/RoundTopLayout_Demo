@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RoundTopLayout">
+        <attr name="backcolor" format="color"/>
+        <attr name="linecolor" format="color"/>
+        <attr name="linesize" format="dimension"/>
+        <attr name="gapsize" format="dimension"/>
+        <attr name="centerwidth" format="dimension"/>
+    </declare-styleable>
+</resources>
