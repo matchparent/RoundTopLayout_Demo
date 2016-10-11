@@ -17,4 +17,4 @@ There's five attribute you may use
 
 * linesize - stroke width for the lines.(dp)
 
-When I was working on this widget,I draw an arc and make it intersect with two lines on the left and right,then i draw a rect(backcolor) to cover the unnecessary part of the arc(for the absolute centerwidth is hard to calculate,so i make it a relative one,when you are using this you can try values to see if it match).
+When I was working on this widget,I draw an arc and made it intersect with two lines on the left and right,then i draw a rect(backcolor) to cover the unnecessary part of the arc(for the absolute centerwidth is hard to calculate,so i make it a relative one,when you are using this you can try values to see if it match).
